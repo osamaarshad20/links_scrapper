@@ -23,7 +23,6 @@ class LinkScrapper():
             number_of_threads (_type_): _description_
         """
         self.url = url
-        self.url = 'https://stackoverflow.com/questions/15155476/check-if-url-that-belongs-to-the-same-domain-exists-in-list-with-python'
         self.links = [self.url]
         self.domain = None
         self.number_of_threads = number_of_threads
