@@ -8,7 +8,7 @@
         $ git clone https://github.com/theherd8/links_scrapper
     ```
 
-* #### Dependencies
+### Dependencies
     1. Cd into your the cloned repo as such:
         ```bash
             $ cd links_scrapper
@@ -17,7 +17,7 @@
         ```bash
             $ python3 -m venv test_env   
         ```
-    3. Activate that enviorment a python virtual env using the below command.
+    3. Activate that env using the below command.
         ```bash
             $ source test_env/bin/activate  
         ```
